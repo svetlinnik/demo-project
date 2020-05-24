@@ -4,7 +4,7 @@
 To run the application follow the following steps:
 1. Run as Spring Boot application
 2. Open a web browser
-3. Go to url http://localhost:8080/calculate/BG?totalBudget=%totalBudget%&countryBudget=%countryBudget%&currency=%currency%
+3. Go to url http://localhost:8080/calculate/BG?totalBudget=totalBudget&countryBudget=countryBudget&currency=currency
 where:
 * totalBudget(Integer) - total budget for neighbour countries trip
 * countryBudget(Integer) - budget per country
