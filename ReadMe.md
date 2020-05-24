@@ -8,7 +8,7 @@ To run the application follow the following steps:
 where:
 * totalBudget(Integer) - total budget for neighbour countries trip
 * countryBudget(Integer) - budget per country
-* currency(String) - what currency are the budgets in
+* currency(String)(Length = 3) - what currency are the budgets in
 4. Log in with Google account for the result
 ### Implementation notes
 For this example the application supports only one starting country(BG) and the neighbour countries and exchange rates are mock data.
